@@ -1,17 +1,31 @@
 package com.Asel;
 
+import java.util.Stack;
+
 public class Question6 {
     public static void main(String[] args) {
-        System.out.println(checkPalindrome("hello"));
+        System.out.println(checkPalindromeUsingStack("Anna"));
     }
 
-    public static boolean checkPalindrome(String str){
+
+
+    public static boolean checkPalindromeUsingStack(String str) {
         boolean isPalindrome = false;
+        String stringToCheck = str.toLowerCase();
+        String palindromeString = "";
 
-        StringBuilder sb = new StringBuilder(str);
-        String reversed = sb.reverse().toString();
+        Stack<Character> stack = new Stack<Character>();
 
-        if(reversed.equals(str)){
+        for (int i = 0; i < stringToCheck.length(); i++) {
+            char character = stringToCheck.charAt(i);
+            stack.push(character);
+        }
+
+        while (!stack.isEmpty()) {
+            palindromeString = palindromeString + stack.pop();
+        }
+
+        if (stringToCheck.equals(palindromeString)) {
             isPalindrome = true;
         }
 
