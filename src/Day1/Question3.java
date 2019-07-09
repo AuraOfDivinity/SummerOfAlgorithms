@@ -1,4 +1,4 @@
-package com.Asel;
+package Day1;
 
 public class Question3 {
     public static void main(String[] args) {

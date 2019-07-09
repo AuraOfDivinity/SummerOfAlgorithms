@@ -1,4 +1,4 @@
-package com.Asel;
+package Day1;
 
 import java.util.Stack;
 
