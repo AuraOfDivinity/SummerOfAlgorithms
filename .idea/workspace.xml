@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a089a6d3-2857-4af7-9ad4-8a3ab2fa3188" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day2/Q10SumOfArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/Q9Trplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/Q12CheckMirronInverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2/Q11InverseArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2/Q11InverseArrays.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,24 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Day2/Q2FindNumberInArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Day1/Question2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Day2/Q3OptimizedFindNumberInArray.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -108,11 +91,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Day2/Q10SumOfArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="63" column="62" selection-start-line="63" selection-start-column="62" selection-end-line="63" selection-end-column="62" />
+            <state relative-caret-position="1258">
+              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Day2/Q11InverseArrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Day2/Q12CheckMirronInverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,10 +153,12 @@
         <option value="$PROJECT_DIR$/src/Day2/Q7ArrayIntersections.java" />
         <option value="$PROJECT_DIR$/src/Day2/Q8NumberPairs.java" />
         <option value="$PROJECT_DIR$/src/Day2/Q10SumOfArrays.java" />
+        <option value="$PROJECT_DIR$/src/Day2/Q11InverseArrays.java" />
+        <option value="$PROJECT_DIR$/src/Day2/Q12CheckMirronInverse.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="928" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -207,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q10SumOfArrays">
+  <component name="RunManager" selected="Application.Q12CheckMirronInverse">
     <configuration name="Q10SumOfArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day2.Q10SumOfArrays" />
       <module name="Arrays" />
@@ -221,8 +227,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q3OptimizedFindNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2.Q3OptimizedFindNumberInArray" />
+    <configuration name="Q11InverseArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.Q11InverseArrays" />
       <module name="Arrays" />
       <extension name="coverage">
         <pattern>
@@ -234,8 +240,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2.Q4ReverseArray" />
+    <configuration name="Q12CheckMirronInverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.Q12CheckMirronInverse" />
       <module name="Arrays" />
       <extension name="coverage">
         <pattern>
@@ -274,19 +280,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q3OptimizedFindNumberInArray" />
-      <item itemvalue="Application.Q4ReverseArray" />
       <item itemvalue="Application.Q7ArrayIntersections" />
       <item itemvalue="Application.Q8NumberPairs" />
       <item itemvalue="Application.Q10SumOfArrays" />
+      <item itemvalue="Application.Q11InverseArrays" />
+      <item itemvalue="Application.Q12CheckMirronInverse" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q12CheckMirronInverse" />
+        <item itemvalue="Application.Q11InverseArrays" />
         <item itemvalue="Application.Q10SumOfArrays" />
         <item itemvalue="Application.Q8NumberPairs" />
         <item itemvalue="Application.Q7ArrayIntersections" />
-        <item itemvalue="Application.Q4ReverseArray" />
-        <item itemvalue="Application.Q3OptimizedFindNumberInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -303,18 +309,17 @@
       <workItem from="1562513530426" duration="4114000" />
       <workItem from="1562554874366" duration="9717000" />
       <workItem from="1562640948498" duration="11826000" />
-      <workItem from="1562721645070" duration="6306000" />
+      <workItem from="1562721645070" duration="8996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31963000" />
+    <option name="totallyTimeSpent" value="34653000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="928" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38402626" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18710022" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -323,16 +328,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33150986" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32827735" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934355" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32932165" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32932165" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32827735" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32932165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -480,8 +485,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Day2/Q10SumOfArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="63" column="62" selection-start-line="63" selection-start-column="62" selection-end-line="63" selection-end-column="62" />
+        <state relative-caret-position="1258">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day2/Q11InverseArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day2/Q12CheckMirronInverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
