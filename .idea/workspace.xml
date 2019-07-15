@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a089a6d3-2857-4af7-9ad4-8a3ab2fa3188" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day3/Q2WavePrintColumnWise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/Q3SpiralPrintAntiClockWise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day3/Q1WavePrintRowWise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day3/Q1WavePrintRowWise.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,20 +35,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Day3/Q2WavePrintColumnWise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <state relative-caret-position="187">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Day2/Q6MaxProfit.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Day3/Q3SpiralPrintAntiClockWise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="40" />
+            <state relative-caret-position="-22">
+              <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -154,6 +153,7 @@
         <option value="$PROJECT_DIR$/src/Day2/Q5SortingArray.java" />
         <option value="$PROJECT_DIR$/src/Day3/Q1WavePrintRowWise.java" />
         <option value="$PROJECT_DIR$/src/Day3/Q2WavePrintColumnWise.java" />
+        <option value="$PROJECT_DIR$/src/Day3/Q3SpiralPrintAntiClockWise.java" />
       </list>
     </option>
   </component>
@@ -219,20 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q2WavePrintColumnWise">
-    <configuration name="Q11InverseArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2.Q11InverseArrays" />
-      <module name="Arrays" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q3SpiralPrintAntiClockWise">
     <configuration name="Q12CheckMirronInverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day2.Q12CheckMirronInverse" />
       <module name="Arrays" />
@@ -272,6 +259,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q3SpiralPrintAntiClockWise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.Q3SpiralPrintAntiClockWise" />
+      <module name="Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Q5SortingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day2.Q5SortingArray" />
       <module name="Arrays" />
@@ -286,19 +286,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q11InverseArrays" />
       <item itemvalue="Application.Q12CheckMirronInverse" />
       <item itemvalue="Application.Q5SortingArray" />
       <item itemvalue="Application.Q1WavePrintRowWise" />
       <item itemvalue="Application.Q2WavePrintColumnWise" />
+      <item itemvalue="Application.Q3SpiralPrintAntiClockWise" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q3SpiralPrintAntiClockWise" />
         <item itemvalue="Application.Q2WavePrintColumnWise" />
         <item itemvalue="Application.Q1WavePrintRowWise" />
         <item itemvalue="Application.Q5SortingArray" />
         <item itemvalue="Application.Q12CheckMirronInverse" />
-        <item itemvalue="Application.Q11InverseArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -318,18 +318,18 @@
       <workItem from="1562721645070" duration="12286000" />
       <workItem from="1562942552540" duration="598000" />
       <workItem from="1563076428528" duration="1989000" />
-      <workItem from="1563153085220" duration="4122000" />
+      <workItem from="1563153085220" duration="5646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44652000" />
+    <option name="totallyTimeSpent" value="46176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19989339" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19989339" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -338,7 +338,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32822758" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32719395" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934355" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -347,7 +347,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32932165" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32827735" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32932165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -523,8 +523,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Day3/Q2WavePrintColumnWise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day3/Q3SpiralPrintAntiClockWise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
         </state>
       </provider>
     </entry>
